@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 7\HashTable\HashTable\bin\Debug\HashTable.exe.config
+D:\universidad\curso c#\session 7\HashTable\HashTable\bin\Debug\HashTable.exe
+D:\universidad\curso c#\session 7\HashTable\HashTable\bin\Debug\HashTable.pdb
+D:\universidad\curso c#\session 7\HashTable\HashTable\obj\Debug\HashTable.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 7\HashTable\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 7\HashTable\HashTable\obj\Debug\HashTable.exe
+D:\universidad\curso c#\session 7\HashTable\HashTable\obj\Debug\HashTable.pdb

@@ -1,0 +1,6 @@
+D:\universidad\curso c#\videos de youtube\video 22\checked unchecked\checked unchecked\bin\Debug\checked unchecked.exe.config
+D:\universidad\curso c#\videos de youtube\video 22\checked unchecked\checked unchecked\bin\Debug\checked unchecked.exe
+D:\universidad\curso c#\videos de youtube\video 22\checked unchecked\checked unchecked\bin\Debug\checked unchecked.pdb
+D:\universidad\curso c#\videos de youtube\video 22\checked unchecked\checked unchecked\obj\Debug\checked unchecked.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 22\checked unchecked\checked unchecked\obj\Debug\checked unchecked.exe
+D:\universidad\curso c#\videos de youtube\video 22\checked unchecked\checked unchecked\obj\Debug\checked unchecked.pdb

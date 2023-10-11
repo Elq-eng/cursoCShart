@@ -1,0 +1,30 @@
+PSEUDOCODIGO DEL PERIMETRO DE LOS POLIGONOS REGULARES 
+
+DIVIDIR PRIMERO EL PROGRAMA EN PEQUEÑOS SUBPROGRAMAS
+
+PASOS 
+
+INICIO
+
+1. PEDIR LA LONGITUD 
+2. EL NUMERO DE LADOS
+3. CALCULAR EL PERIMETRO DE POLIGONO LADO*LADO*LADO*LADO
+4. MOSTRAR EL PERIMETRO
+
+FIN 
+
+->PSEUDOCODIGO
+
+INICIO
+
+Variables:
+	longitud, lados : Double 
+
+escribir :  ("Ingresa el numero de lados: ")
+leer(lados)
+escribir :  ("Ingresa la longitud de los lados: ")
+leer(longitud)
+Perimetro <- lados * longitud 
+escribir : ("El perimetro del poligono de: ", lados , "lados es: ", longitud)
+
+

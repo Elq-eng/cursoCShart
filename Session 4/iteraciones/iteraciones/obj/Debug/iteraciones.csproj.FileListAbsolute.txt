@@ -1,0 +1,7 @@
+D:\universidad\curso c#\Session 4\iteraciones\iteraciones\bin\Debug\iteraciones.exe.config
+D:\universidad\curso c#\Session 4\iteraciones\iteraciones\bin\Debug\iteraciones.exe
+D:\universidad\curso c#\Session 4\iteraciones\iteraciones\bin\Debug\iteraciones.pdb
+D:\universidad\curso c#\Session 4\iteraciones\iteraciones\obj\Debug\iteraciones.csprojAssemblyReference.cache
+D:\universidad\curso c#\Session 4\iteraciones\iteraciones\obj\Debug\iteraciones.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\Session 4\iteraciones\iteraciones\obj\Debug\iteraciones.exe
+D:\universidad\curso c#\Session 4\iteraciones\iteraciones\obj\Debug\iteraciones.pdb

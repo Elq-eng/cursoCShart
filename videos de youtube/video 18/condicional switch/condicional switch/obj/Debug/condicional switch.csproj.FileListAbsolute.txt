@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 18\condicional switch\condicional switch\bin\Debug\condicional switch.exe.config
+D:\universidad\curso c#\videos de youtube\video 18\condicional switch\condicional switch\bin\Debug\condicional switch.exe
+D:\universidad\curso c#\videos de youtube\video 18\condicional switch\condicional switch\bin\Debug\condicional switch.pdb
+D:\universidad\curso c#\videos de youtube\video 18\condicional switch\condicional switch\obj\Debug\condicional switch.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 18\condicional switch\condicional switch\obj\Debug\condicional switch.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 18\condicional switch\condicional switch\obj\Debug\condicional switch.exe
+D:\universidad\curso c#\videos de youtube\video 18\condicional switch\condicional switch\obj\Debug\condicional switch.pdb

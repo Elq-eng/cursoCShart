@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 6\exercie jagged\exercie jagged\bin\Debug\exercie jagged.exe.config
+D:\universidad\curso c#\session 6\exercie jagged\exercie jagged\bin\Debug\exercie jagged.exe
+D:\universidad\curso c#\session 6\exercie jagged\exercie jagged\bin\Debug\exercie jagged.pdb
+D:\universidad\curso c#\session 6\exercie jagged\exercie jagged\obj\Debug\exercie jagged.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 6\exercie jagged\exercie jagged\obj\Debug\exercie jagged.exe
+D:\universidad\curso c#\session 6\exercie jagged\exercie jagged\obj\Debug\exercie jagged.pdb
+D:\universidad\curso c#\session 6\exercie jagged\exercie jagged\obj\Debug\exercie jagged.csprojAssemblyReference.cache

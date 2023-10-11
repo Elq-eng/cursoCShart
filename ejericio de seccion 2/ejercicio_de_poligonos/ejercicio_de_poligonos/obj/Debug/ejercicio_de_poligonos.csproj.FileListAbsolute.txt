@@ -1,0 +1,7 @@
+D:\universidad\curso c#\ejericio de poligonos\ejercicio_de_poligonos\ejercicio_de_poligonos\bin\Debug\ejercicio_de_poligonos.exe.config
+D:\universidad\curso c#\ejericio de poligonos\ejercicio_de_poligonos\ejercicio_de_poligonos\bin\Debug\ejercicio_de_poligonos.exe
+D:\universidad\curso c#\ejericio de poligonos\ejercicio_de_poligonos\ejercicio_de_poligonos\bin\Debug\ejercicio_de_poligonos.pdb
+D:\universidad\curso c#\ejericio de poligonos\ejercicio_de_poligonos\ejercicio_de_poligonos\obj\Debug\ejercicio_de_poligonos.csprojAssemblyReference.cache
+D:\universidad\curso c#\ejericio de poligonos\ejercicio_de_poligonos\ejercicio_de_poligonos\obj\Debug\ejercicio_de_poligonos.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\ejericio de poligonos\ejercicio_de_poligonos\ejercicio_de_poligonos\obj\Debug\ejercicio_de_poligonos.exe
+D:\universidad\curso c#\ejericio de poligonos\ejercicio_de_poligonos\ejercicio_de_poligonos\obj\Debug\ejercicio_de_poligonos.pdb

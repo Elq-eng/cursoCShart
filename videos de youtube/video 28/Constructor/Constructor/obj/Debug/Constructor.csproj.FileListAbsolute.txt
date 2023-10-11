@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 28\Constructor\Constructor\bin\Debug\Constructor.exe.config
+D:\universidad\curso c#\videos de youtube\video 28\Constructor\Constructor\bin\Debug\Constructor.exe
+D:\universidad\curso c#\videos de youtube\video 28\Constructor\Constructor\bin\Debug\Constructor.pdb
+D:\universidad\curso c#\videos de youtube\video 28\Constructor\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 28\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 28\Constructor\Constructor\obj\Debug\Constructor.exe
+D:\universidad\curso c#\videos de youtube\video 28\Constructor\Constructor\obj\Debug\Constructor.pdb

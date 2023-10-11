@@ -1,0 +1,7 @@
+H:\universidad\curso c#\session 5\arreglos\arreglos\bin\Debug\arreglos.exe.config
+H:\universidad\curso c#\session 5\arreglos\arreglos\bin\Debug\arreglos.exe
+H:\universidad\curso c#\session 5\arreglos\arreglos\bin\Debug\arreglos.pdb
+H:\universidad\curso c#\session 5\arreglos\arreglos\obj\Debug\arreglos.csprojAssemblyReference.cache
+H:\universidad\curso c#\session 5\arreglos\arreglos\obj\Debug\arreglos.csproj.CoreCompileInputs.cache
+H:\universidad\curso c#\session 5\arreglos\arreglos\obj\Debug\arreglos.exe
+H:\universidad\curso c#\session 5\arreglos\arreglos\obj\Debug\arreglos.pdb

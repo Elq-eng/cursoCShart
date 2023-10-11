@@ -1,0 +1,13 @@
+D:\universidad\curso c#\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.exe
+D:\universidad\curso c#\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.deps.json
+D:\universidad\curso c#\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.json
+D:\universidad\curso c#\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.dev.json
+D:\universidad\curso c#\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.dll
+D:\universidad\curso c#\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.pdb
+D:\universidad\curso c#\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.csprojAssemblyReference.cache
+D:\universidad\curso c#\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.AssemblyInfoInputs.cache
+D:\universidad\curso c#\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.AssemblyInfo.cs
+D:\universidad\curso c#\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.dll
+D:\universidad\curso c#\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.pdb
+D:\universidad\curso c#\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.genruntimeconfig.cache

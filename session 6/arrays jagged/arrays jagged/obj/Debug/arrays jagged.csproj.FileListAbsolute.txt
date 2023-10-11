@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 6\arrays jagged\arrays jagged\bin\Debug\arrays jagged.exe.config
+D:\universidad\curso c#\session 6\arrays jagged\arrays jagged\bin\Debug\arrays jagged.exe
+D:\universidad\curso c#\session 6\arrays jagged\arrays jagged\bin\Debug\arrays jagged.pdb
+D:\universidad\curso c#\session 6\arrays jagged\arrays jagged\obj\Debug\arrays jagged.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 6\arrays jagged\arrays jagged\obj\Debug\arrays jagged.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 6\arrays jagged\arrays jagged\obj\Debug\arrays jagged.exe
+D:\universidad\curso c#\session 6\arrays jagged\arrays jagged\obj\Debug\arrays jagged.pdb

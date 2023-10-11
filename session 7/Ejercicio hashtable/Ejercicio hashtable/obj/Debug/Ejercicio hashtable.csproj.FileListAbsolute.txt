@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 7\Ejercicio hashtable\Ejercicio hashtable\bin\Debug\Ejercicio hashtable.exe.config
+D:\universidad\curso c#\session 7\Ejercicio hashtable\Ejercicio hashtable\bin\Debug\Ejercicio hashtable.exe
+D:\universidad\curso c#\session 7\Ejercicio hashtable\Ejercicio hashtable\bin\Debug\Ejercicio hashtable.pdb
+D:\universidad\curso c#\session 7\Ejercicio hashtable\Ejercicio hashtable\obj\Debug\Ejercicio hashtable.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 7\Ejercicio hashtable\Ejercicio hashtable\obj\Debug\Ejercicio hashtable.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 7\Ejercicio hashtable\Ejercicio hashtable\obj\Debug\Ejercicio hashtable.exe
+D:\universidad\curso c#\session 7\Ejercicio hashtable\Ejercicio hashtable\obj\Debug\Ejercicio hashtable.pdb

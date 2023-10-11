@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 13\juego tictactoee\juego tictactoee\bin\Debug\juego tictactoee.exe.config
+D:\universidad\curso c#\session 13\juego tictactoee\juego tictactoee\bin\Debug\juego tictactoee.exe
+D:\universidad\curso c#\session 13\juego tictactoee\juego tictactoee\bin\Debug\juego tictactoee.pdb
+D:\universidad\curso c#\session 13\juego tictactoee\juego tictactoee\obj\Debug\juego tictactoee.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 13\juego tictactoee\juego tictactoee\obj\Debug\juego tictactoee.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 13\juego tictactoee\juego tictactoee\obj\Debug\juego tictactoee.exe
+D:\universidad\curso c#\session 13\juego tictactoee\juego tictactoee\obj\Debug\juego tictactoee.pdb

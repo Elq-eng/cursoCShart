@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 3\ejercicio de switch\ejercicio de switch\bin\Debug\ejercicio de switch.exe.config
+D:\universidad\curso c#\session 3\ejercicio de switch\ejercicio de switch\bin\Debug\ejercicio de switch.exe
+D:\universidad\curso c#\session 3\ejercicio de switch\ejercicio de switch\bin\Debug\ejercicio de switch.pdb
+D:\universidad\curso c#\session 3\ejercicio de switch\ejercicio de switch\obj\Debug\ejercicio de switch.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 3\ejercicio de switch\ejercicio de switch\obj\Debug\ejercicio de switch.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 3\ejercicio de switch\ejercicio de switch\obj\Debug\ejercicio de switch.exe
+D:\universidad\curso c#\session 3\ejercicio de switch\ejercicio de switch\obj\Debug\ejercicio de switch.pdb

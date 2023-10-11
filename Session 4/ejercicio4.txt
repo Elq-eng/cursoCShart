@@ -1,0 +1,43 @@
+PSUEDO CODIGO DE UNA POTENCIA
+
+PASOS 
+
+INICIO
+
+1.INGRESAR BASE
+2.INGRESAR POTENCIA 
+3. CALCULAR EL RESULTADO
+4. MOSTRAR EL RESULTADO
+
+FIN
+
+
+PSEUDOCODIGO 
+
+base, potencia = 1: int
+resultado: double
+
+Escribir("ingresar base: ")
+leer(base)
+
+Escribir("Ingresar potencia: ")
+leer(potencia)
+
+si potencia >= 1
+	para(int i = 1; i <= potencia; i++)
+		
+		resultado = resultado * base 
+	fin 
+	
+	
+
+si no 
+	
+	para(int i = 1; i <= potencia; i--)
+		
+		resultado = 1/(resultado * base) 
+	fin 
+	
+mostrar resultado
+
+fin

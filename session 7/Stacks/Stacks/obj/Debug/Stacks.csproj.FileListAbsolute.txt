@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 7\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 7\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 7\Stacks\Stacks\bin\Debug\Stacks.exe.config
+D:\universidad\curso c#\session 7\Stacks\Stacks\bin\Debug\Stacks.exe
+D:\universidad\curso c#\session 7\Stacks\Stacks\bin\Debug\Stacks.pdb
+D:\universidad\curso c#\session 7\Stacks\Stacks\obj\Debug\Stacks.exe
+D:\universidad\curso c#\session 7\Stacks\Stacks\obj\Debug\Stacks.pdb

@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 5\ejercicios de session 5\ejercicios de session 5\bin\Debug\ejercicios de session 5.exe.config
+D:\universidad\curso c#\session 5\ejercicios de session 5\ejercicios de session 5\bin\Debug\ejercicios de session 5.exe
+D:\universidad\curso c#\session 5\ejercicios de session 5\ejercicios de session 5\bin\Debug\ejercicios de session 5.pdb
+D:\universidad\curso c#\session 5\ejercicios de session 5\ejercicios de session 5\obj\Debug\ejercicios de session 5.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 5\ejercicios de session 5\ejercicios de session 5\obj\Debug\ejercicios de session 5.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 5\ejercicios de session 5\ejercicios de session 5\obj\Debug\ejercicios de session 5.exe
+D:\universidad\curso c#\session 5\ejercicios de session 5\ejercicios de session 5\obj\Debug\ejercicios de session 5.pdb

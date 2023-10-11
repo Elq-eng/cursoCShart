@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 28\POO clases e instancias\POO clases e instancias\bin\Debug\POO clases e instancias.exe.config
+D:\universidad\curso c#\videos de youtube\video 28\POO clases e instancias\POO clases e instancias\bin\Debug\POO clases e instancias.exe
+D:\universidad\curso c#\videos de youtube\video 28\POO clases e instancias\POO clases e instancias\bin\Debug\POO clases e instancias.pdb
+D:\universidad\curso c#\videos de youtube\video 28\POO clases e instancias\POO clases e instancias\obj\Debug\POO clases e instancias.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 28\POO clases e instancias\POO clases e instancias\obj\Debug\POO clases e instancias.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 28\POO clases e instancias\POO clases e instancias\obj\Debug\POO clases e instancias.exe
+D:\universidad\curso c#\videos de youtube\video 28\POO clases e instancias\POO clases e instancias\obj\Debug\POO clases e instancias.pdb

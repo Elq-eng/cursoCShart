@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 11\ejercicio1_stream\ejercicio1_stream\bin\Debug\ejercicio1_stream.exe.config
+D:\universidad\curso c#\session 11\ejercicio1_stream\ejercicio1_stream\bin\Debug\ejercicio1_stream.exe
+D:\universidad\curso c#\session 11\ejercicio1_stream\ejercicio1_stream\bin\Debug\ejercicio1_stream.pdb
+D:\universidad\curso c#\session 11\ejercicio1_stream\ejercicio1_stream\obj\Debug\ejercicio1_stream.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 11\ejercicio1_stream\ejercicio1_stream\obj\Debug\ejercicio1_stream.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 11\ejercicio1_stream\ejercicio1_stream\obj\Debug\ejercicio1_stream.exe
+D:\universidad\curso c#\session 11\ejercicio1_stream\ejercicio1_stream\obj\Debug\ejercicio1_stream.pdb

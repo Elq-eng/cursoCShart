@@ -1,0 +1,7 @@
+E:\universidad elquin\curso c#\videos de youtube\video 48\ejercicio de interfaces\ejercicio de interfaces\bin\Debug\ejercicio de interfaces.exe.config
+E:\universidad elquin\curso c#\videos de youtube\video 48\ejercicio de interfaces\ejercicio de interfaces\bin\Debug\ejercicio de interfaces.exe
+E:\universidad elquin\curso c#\videos de youtube\video 48\ejercicio de interfaces\ejercicio de interfaces\bin\Debug\ejercicio de interfaces.pdb
+E:\universidad elquin\curso c#\videos de youtube\video 48\ejercicio de interfaces\ejercicio de interfaces\obj\Debug\ejercicio de interfaces.csprojAssemblyReference.cache
+E:\universidad elquin\curso c#\videos de youtube\video 48\ejercicio de interfaces\ejercicio de interfaces\obj\Debug\ejercicio de interfaces.csproj.CoreCompileInputs.cache
+E:\universidad elquin\curso c#\videos de youtube\video 48\ejercicio de interfaces\ejercicio de interfaces\obj\Debug\ejercicio de interfaces.exe
+E:\universidad elquin\curso c#\videos de youtube\video 48\ejercicio de interfaces\ejercicio de interfaces\obj\Debug\ejercicio de interfaces.pdb

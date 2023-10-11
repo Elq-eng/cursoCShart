@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 9\enumeraciones\enumeraciones\bin\Debug\enumeraciones.exe.config
+D:\universidad\curso c#\session 9\enumeraciones\enumeraciones\bin\Debug\enumeraciones.exe
+D:\universidad\curso c#\session 9\enumeraciones\enumeraciones\bin\Debug\enumeraciones.pdb
+D:\universidad\curso c#\session 9\enumeraciones\enumeraciones\obj\Debug\enumeraciones.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 9\enumeraciones\enumeraciones\obj\Debug\enumeraciones.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 9\enumeraciones\enumeraciones\obj\Debug\enumeraciones.exe
+D:\universidad\curso c#\session 9\enumeraciones\enumeraciones\obj\Debug\enumeraciones.pdb

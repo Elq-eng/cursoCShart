@@ -1,0 +1,7 @@
+D:\universidad\curso c#\Session 4\do_while\do_while\bin\Debug\do_while.exe.config
+D:\universidad\curso c#\Session 4\do_while\do_while\bin\Debug\do_while.exe
+D:\universidad\curso c#\Session 4\do_while\do_while\bin\Debug\do_while.pdb
+D:\universidad\curso c#\Session 4\do_while\do_while\obj\Debug\do_while.csprojAssemblyReference.cache
+D:\universidad\curso c#\Session 4\do_while\do_while\obj\Debug\do_while.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\Session 4\do_while\do_while\obj\Debug\do_while.exe
+D:\universidad\curso c#\Session 4\do_while\do_while\obj\Debug\do_while.pdb

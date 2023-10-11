@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 28\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe.config
+D:\universidad\curso c#\videos de youtube\video 28\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe
+D:\universidad\curso c#\videos de youtube\video 28\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.pdb
+D:\universidad\curso c#\videos de youtube\video 28\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 28\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 28\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.exe
+D:\universidad\curso c#\videos de youtube\video 28\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.pdb

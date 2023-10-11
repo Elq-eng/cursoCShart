@@ -1,0 +1,6 @@
+D:\universidad\curso c#\videos de youtube\video 22\lanzamiento de exepcion\lanzamiento de exepcion\bin\Debug\lanzamiento de exepcion.exe.config
+D:\universidad\curso c#\videos de youtube\video 22\lanzamiento de exepcion\lanzamiento de exepcion\bin\Debug\lanzamiento de exepcion.exe
+D:\universidad\curso c#\videos de youtube\video 22\lanzamiento de exepcion\lanzamiento de exepcion\bin\Debug\lanzamiento de exepcion.pdb
+D:\universidad\curso c#\videos de youtube\video 22\lanzamiento de exepcion\lanzamiento de exepcion\obj\Debug\lanzamiento de exepcion.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 22\lanzamiento de exepcion\lanzamiento de exepcion\obj\Debug\lanzamiento de exepcion.exe
+D:\universidad\curso c#\videos de youtube\video 22\lanzamiento de exepcion\lanzamiento de exepcion\obj\Debug\lanzamiento de exepcion.pdb

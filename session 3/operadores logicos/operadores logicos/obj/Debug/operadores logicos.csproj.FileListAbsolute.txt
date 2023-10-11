@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 3\operadores logicos\operadores logicos\bin\Debug\operadores logicos.exe.config
+D:\universidad\curso c#\session 3\operadores logicos\operadores logicos\bin\Debug\operadores logicos.exe
+D:\universidad\curso c#\session 3\operadores logicos\operadores logicos\bin\Debug\operadores logicos.pdb
+D:\universidad\curso c#\session 3\operadores logicos\operadores logicos\obj\Debug\operadores logicos.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 3\operadores logicos\operadores logicos\obj\Debug\operadores logicos.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 3\operadores logicos\operadores logicos\obj\Debug\operadores logicos.exe
+D:\universidad\curso c#\session 3\operadores logicos\operadores logicos\obj\Debug\operadores logicos.pdb

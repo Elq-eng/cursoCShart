@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 10\sobrecarga de metodos\sobrecarga de metodos\bin\Debug\sobrecarga de metodos.exe.config
+D:\universidad\curso c#\videos de youtube\video 10\sobrecarga de metodos\sobrecarga de metodos\bin\Debug\sobrecarga de metodos.exe
+D:\universidad\curso c#\videos de youtube\video 10\sobrecarga de metodos\sobrecarga de metodos\bin\Debug\sobrecarga de metodos.pdb
+D:\universidad\curso c#\videos de youtube\video 10\sobrecarga de metodos\sobrecarga de metodos\obj\Debug\sobrecarga de metodos.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 10\sobrecarga de metodos\sobrecarga de metodos\obj\Debug\sobrecarga de metodos.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 10\sobrecarga de metodos\sobrecarga de metodos\obj\Debug\sobrecarga de metodos.exe
+D:\universidad\curso c#\videos de youtube\video 10\sobrecarga de metodos\sobrecarga de metodos\obj\Debug\sobrecarga de metodos.pdb

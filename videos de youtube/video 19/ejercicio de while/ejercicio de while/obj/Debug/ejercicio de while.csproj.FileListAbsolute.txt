@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 19\ejercicio de while\ejercicio de while\bin\Debug\ejercicio de while.exe.config
+D:\universidad\curso c#\videos de youtube\video 19\ejercicio de while\ejercicio de while\bin\Debug\ejercicio de while.exe
+D:\universidad\curso c#\videos de youtube\video 19\ejercicio de while\ejercicio de while\bin\Debug\ejercicio de while.pdb
+D:\universidad\curso c#\videos de youtube\video 19\ejercicio de while\ejercicio de while\obj\Debug\ejercicio de while.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 19\ejercicio de while\ejercicio de while\obj\Debug\ejercicio de while.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 19\ejercicio de while\ejercicio de while\obj\Debug\ejercicio de while.exe
+D:\universidad\curso c#\videos de youtube\video 19\ejercicio de while\ejercicio de while\obj\Debug\ejercicio de while.pdb

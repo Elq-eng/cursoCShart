@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 5\paso por referencia y paso por valor\paso por referencia y paso por valor\bin\Debug\paso por referencia y paso por valor.exe.config
+D:\universidad\curso c#\session 5\paso por referencia y paso por valor\paso por referencia y paso por valor\bin\Debug\paso por referencia y paso por valor.exe
+D:\universidad\curso c#\session 5\paso por referencia y paso por valor\paso por referencia y paso por valor\bin\Debug\paso por referencia y paso por valor.pdb
+D:\universidad\curso c#\session 5\paso por referencia y paso por valor\paso por referencia y paso por valor\obj\Debug\paso por referencia y paso por valor.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 5\paso por referencia y paso por valor\paso por referencia y paso por valor\obj\Debug\paso por referencia y paso por valor.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 5\paso por referencia y paso por valor\paso por referencia y paso por valor\obj\Debug\paso por referencia y paso por valor.exe
+D:\universidad\curso c#\session 5\paso por referencia y paso por valor\paso por referencia y paso por valor\obj\Debug\paso por referencia y paso por valor.pdb

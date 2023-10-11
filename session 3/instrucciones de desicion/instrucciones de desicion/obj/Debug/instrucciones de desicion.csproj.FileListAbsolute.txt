@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 3\instrucciones de desicion\instrucciones de desicion\bin\Debug\instrucciones de desicion.exe.config
+D:\universidad\curso c#\session 3\instrucciones de desicion\instrucciones de desicion\bin\Debug\instrucciones de desicion.exe
+D:\universidad\curso c#\session 3\instrucciones de desicion\instrucciones de desicion\bin\Debug\instrucciones de desicion.pdb
+D:\universidad\curso c#\session 3\instrucciones de desicion\instrucciones de desicion\obj\Debug\instrucciones de desicion.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 3\instrucciones de desicion\instrucciones de desicion\obj\Debug\instrucciones de desicion.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 3\instrucciones de desicion\instrucciones de desicion\obj\Debug\instrucciones de desicion.exe
+D:\universidad\curso c#\session 3\instrucciones de desicion\instrucciones de desicion\obj\Debug\instrucciones de desicion.pdb

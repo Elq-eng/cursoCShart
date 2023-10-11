@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 3\switch\switch\bin\Debug\@switch.exe.config
+D:\universidad\curso c#\session 3\switch\switch\bin\Debug\@switch.exe
+D:\universidad\curso c#\session 3\switch\switch\bin\Debug\@switch.pdb
+D:\universidad\curso c#\session 3\switch\switch\obj\Debug\switch.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 3\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 3\switch\switch\obj\Debug\@switch.exe
+D:\universidad\curso c#\session 3\switch\switch\obj\Debug\@switch.pdb

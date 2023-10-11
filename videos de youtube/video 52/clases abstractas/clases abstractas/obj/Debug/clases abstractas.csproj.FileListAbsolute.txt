@@ -1,0 +1,7 @@
+E:\universidad elquin\curso c#\videos de youtube\video 52\clases abstractas\clases abstractas\bin\Debug\clases abstractas.exe.config
+E:\universidad elquin\curso c#\videos de youtube\video 52\clases abstractas\clases abstractas\bin\Debug\clases abstractas.exe
+E:\universidad elquin\curso c#\videos de youtube\video 52\clases abstractas\clases abstractas\bin\Debug\clases abstractas.pdb
+E:\universidad elquin\curso c#\videos de youtube\video 52\clases abstractas\clases abstractas\obj\Debug\clases abstractas.csprojAssemblyReference.cache
+E:\universidad elquin\curso c#\videos de youtube\video 52\clases abstractas\clases abstractas\obj\Debug\clases abstractas.csproj.CoreCompileInputs.cache
+E:\universidad elquin\curso c#\videos de youtube\video 52\clases abstractas\clases abstractas\obj\Debug\clases abstractas.exe
+E:\universidad elquin\curso c#\videos de youtube\video 52\clases abstractas\clases abstractas\obj\Debug\clases abstractas.pdb

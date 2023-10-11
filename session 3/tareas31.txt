@@ -1,0 +1,83 @@
+DEFINIR LOS PASOS QUE SE VAN HACER EN EL EJERCICIO 
+
+PASOS 
+
+INICIO
+
+1. PREGUNTARLE AL USUARIO INGRESAR UN NUMERO DEL 1-12
+2. DETERMINAR EL MES RESPECTIVO
+3. MOSTRAR SEGUN EL MES
+
+FIN
+
+PSEUDOCODIGO
+
+INICIAR 
+
+VARIABLES 
+	mes: byte
+	
+Escribir ("Ingrese un numero del 1-12")
+Leer (mes)
+
+segun sea (mes)
+en Caso color:1
+	escribir ("enero")
+salir 
+en Caso color:2
+	escribir ("febrero")
+salir 
+en Caso color:3
+	escribir ("marzo")
+	.
+	.
+	.
+salir 
+
+
+
+
+TERCER EJERCICIO 
+
+DEFINICION DE PASOS 
+
+INICIO
+
+1.ingresar tiempo de estacionamiento
+2.verificar si fue en minutos o horas
+3. dar precios
+
+
+fin 
+
+pseudocodigo
+
+inicio 
+	variable 
+	minutos,horas, tiempo  :byte
+	precio :Float
+
+
+Escribir("Escoja entre 1 y 2 tiempo que permanecio en el establecimiento si fue en 1.Minutos o 2.Horas")
+leer ("tiempo")
+
+	si tiempo es 1:
+		Escribir("Ingresar los minutos")
+		leer(minutos)
+		precio <- 5.00 pesos
+		
+		
+	
+	si tiempo es 2:
+		Escribir("Ingresar las horas")
+		leer(horas)
+		precio <- 15.00
+		
+		si horas >= 3:
+				
+		precio <- precio + (abs(horas-2) * 40.00)  
+		
+	
+Escribir("su precio a pagar es: ", precio)
+
+fin

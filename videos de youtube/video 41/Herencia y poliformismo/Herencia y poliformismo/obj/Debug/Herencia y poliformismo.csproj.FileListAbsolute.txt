@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 41\Herencia y poliformismo\Herencia y poliformismo\obj\Debug\Herencia y poliformismo.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 41\Herencia y poliformismo\Herencia y poliformismo\obj\Debug\Herencia y poliformismo.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 41\Herencia y poliformismo\Herencia y poliformismo\bin\Debug\Herencia y poliformismo.exe.config
+D:\universidad\curso c#\videos de youtube\video 41\Herencia y poliformismo\Herencia y poliformismo\bin\Debug\Herencia y poliformismo.exe
+D:\universidad\curso c#\videos de youtube\video 41\Herencia y poliformismo\Herencia y poliformismo\bin\Debug\Herencia y poliformismo.pdb
+D:\universidad\curso c#\videos de youtube\video 41\Herencia y poliformismo\Herencia y poliformismo\obj\Debug\Herencia y poliformismo.exe
+D:\universidad\curso c#\videos de youtube\video 41\Herencia y poliformismo\Herencia y poliformismo\obj\Debug\Herencia y poliformismo.pdb

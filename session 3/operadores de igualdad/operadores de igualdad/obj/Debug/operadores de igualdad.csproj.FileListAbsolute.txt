@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 3\operadores de igualdad\operadores de igualdad\obj\Debug\operadores de igualdad.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 3\operadores de igualdad\operadores de igualdad\obj\Debug\operadores de igualdad.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 3\operadores de igualdad\operadores de igualdad\bin\Debug\operadores de igualdad.exe.config
+D:\universidad\curso c#\session 3\operadores de igualdad\operadores de igualdad\bin\Debug\operadores de igualdad.exe
+D:\universidad\curso c#\session 3\operadores de igualdad\operadores de igualdad\bin\Debug\operadores de igualdad.pdb
+D:\universidad\curso c#\session 3\operadores de igualdad\operadores de igualdad\obj\Debug\operadores de igualdad.exe
+D:\universidad\curso c#\session 3\operadores de igualdad\operadores de igualdad\obj\Debug\operadores de igualdad.pdb

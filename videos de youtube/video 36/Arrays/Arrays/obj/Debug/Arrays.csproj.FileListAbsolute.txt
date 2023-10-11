@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 36\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\universidad\curso c#\videos de youtube\video 36\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\universidad\curso c#\videos de youtube\video 36\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\universidad\curso c#\videos de youtube\video 36\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 36\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 36\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\universidad\curso c#\videos de youtube\video 36\Arrays\Arrays\obj\Debug\Arrays.pdb

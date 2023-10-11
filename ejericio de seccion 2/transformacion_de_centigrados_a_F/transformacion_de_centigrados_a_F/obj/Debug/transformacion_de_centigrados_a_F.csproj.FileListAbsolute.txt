@@ -1,0 +1,7 @@
+D:\universidad\curso c#\ejericio de seccion 2\transformacion_de_centigrados_a_F\transformacion_de_centigrados_a_F\bin\Debug\transformacion_de_centigrados_a_F.exe.config
+D:\universidad\curso c#\ejericio de seccion 2\transformacion_de_centigrados_a_F\transformacion_de_centigrados_a_F\bin\Debug\transformacion_de_centigrados_a_F.exe
+D:\universidad\curso c#\ejericio de seccion 2\transformacion_de_centigrados_a_F\transformacion_de_centigrados_a_F\bin\Debug\transformacion_de_centigrados_a_F.pdb
+D:\universidad\curso c#\ejericio de seccion 2\transformacion_de_centigrados_a_F\transformacion_de_centigrados_a_F\obj\Debug\transformacion_de_centigrados_a_F.csprojAssemblyReference.cache
+D:\universidad\curso c#\ejericio de seccion 2\transformacion_de_centigrados_a_F\transformacion_de_centigrados_a_F\obj\Debug\transformacion_de_centigrados_a_F.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\ejericio de seccion 2\transformacion_de_centigrados_a_F\transformacion_de_centigrados_a_F\obj\Debug\transformacion_de_centigrados_a_F.exe
+D:\universidad\curso c#\ejericio de seccion 2\transformacion_de_centigrados_a_F\transformacion_de_centigrados_a_F\obj\Debug\transformacion_de_centigrados_a_F.pdb

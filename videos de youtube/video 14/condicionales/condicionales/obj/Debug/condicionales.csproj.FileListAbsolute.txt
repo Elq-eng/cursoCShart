@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 14\condicionales\condicionales\bin\Debug\condicionales.exe.config
+D:\universidad\curso c#\videos de youtube\video 14\condicionales\condicionales\bin\Debug\condicionales.exe
+D:\universidad\curso c#\videos de youtube\video 14\condicionales\condicionales\bin\Debug\condicionales.pdb
+D:\universidad\curso c#\videos de youtube\video 14\condicionales\condicionales\obj\Debug\condicionales.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 14\condicionales\condicionales\obj\Debug\condicionales.exe
+D:\universidad\curso c#\videos de youtube\video 14\condicionales\condicionales\obj\Debug\condicionales.pdb
+D:\universidad\curso c#\videos de youtube\video 14\condicionales\condicionales\obj\Debug\condicionales.csprojAssemblyReference.cache

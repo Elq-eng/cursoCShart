@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 5\Asignacion implicita\Asignacion implicita\bin\Debug\Asignacion implicita.exe.config
+D:\universidad\curso c#\session 5\Asignacion implicita\Asignacion implicita\bin\Debug\Asignacion implicita.exe
+D:\universidad\curso c#\session 5\Asignacion implicita\Asignacion implicita\bin\Debug\Asignacion implicita.pdb
+D:\universidad\curso c#\session 5\Asignacion implicita\Asignacion implicita\obj\Debug\Asignacion implicita.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 5\Asignacion implicita\Asignacion implicita\obj\Debug\Asignacion implicita.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 5\Asignacion implicita\Asignacion implicita\obj\Debug\Asignacion implicita.exe
+D:\universidad\curso c#\session 5\Asignacion implicita\Asignacion implicita\obj\Debug\Asignacion implicita.pdb

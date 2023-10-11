@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 6\ejercicio 2\ejercicio 2\bin\Debug\ejercicio 2.exe.config
+D:\universidad\curso c#\session 6\ejercicio 2\ejercicio 2\bin\Debug\ejercicio 2.exe
+D:\universidad\curso c#\session 6\ejercicio 2\ejercicio 2\bin\Debug\ejercicio 2.pdb
+D:\universidad\curso c#\session 6\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 6\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 6\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.exe
+D:\universidad\curso c#\session 6\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.pdb

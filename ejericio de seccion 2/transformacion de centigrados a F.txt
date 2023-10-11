@@ -1,0 +1,21 @@
+PSEUDOCODIGO DE TRANSOFRMACION DE CENTIGRADOS A FAHRENHEIT
+
+INICIO 
+
+1.INGRESAR TEMPERATURA ACTUAL
+2. CALCULO DE LA TEMPERATURA 
+3. MOSTRAR TEMPERATURA
+
+FIN 
+
+PSEUDOCIGO
+
+INICIO 
+
+Variables: 
+	temperaturaC, temperaturaF : Double
+
+Escribir ("Ingrese la temperatura actual")
+Leer (temperaturaC)
+temperaturaF <- (temperaturaC * 9/5) + 32
+Escribir ("La temperatura fahrenheit es de: ", temperaturaF)

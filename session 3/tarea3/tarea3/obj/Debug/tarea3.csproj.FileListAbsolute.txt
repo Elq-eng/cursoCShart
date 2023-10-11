@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 3\tarea3\tarea3\bin\Debug\tarea3.exe.config
+D:\universidad\curso c#\session 3\tarea3\tarea3\bin\Debug\tarea3.exe
+D:\universidad\curso c#\session 3\tarea3\tarea3\bin\Debug\tarea3.pdb
+D:\universidad\curso c#\session 3\tarea3\tarea3\obj\Debug\tarea3.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 3\tarea3\tarea3\obj\Debug\tarea3.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 3\tarea3\tarea3\obj\Debug\tarea3.exe
+D:\universidad\curso c#\session 3\tarea3\tarea3\obj\Debug\tarea3.pdb

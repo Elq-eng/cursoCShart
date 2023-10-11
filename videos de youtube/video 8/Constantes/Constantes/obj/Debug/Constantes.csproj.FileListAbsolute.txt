@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 8\Constantes\Constantes\bin\Debug\Constantes.exe.config
+D:\universidad\curso c#\videos de youtube\video 8\Constantes\Constantes\bin\Debug\Constantes.exe
+D:\universidad\curso c#\videos de youtube\video 8\Constantes\Constantes\bin\Debug\Constantes.pdb
+D:\universidad\curso c#\videos de youtube\video 8\Constantes\Constantes\obj\Debug\Constantes.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 8\Constantes\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 8\Constantes\Constantes\obj\Debug\Constantes.exe
+D:\universidad\curso c#\videos de youtube\video 8\Constantes\Constantes\obj\Debug\Constantes.pdb

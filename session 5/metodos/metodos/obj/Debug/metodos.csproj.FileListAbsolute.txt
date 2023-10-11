@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 5\metodos\metodos\bin\Debug\metodos.exe.config
+D:\universidad\curso c#\session 5\metodos\metodos\bin\Debug\metodos.exe
+D:\universidad\curso c#\session 5\metodos\metodos\bin\Debug\metodos.pdb
+D:\universidad\curso c#\session 5\metodos\metodos\obj\Debug\metodos.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 5\metodos\metodos\obj\Debug\metodos.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 5\metodos\metodos\obj\Debug\metodos.exe
+D:\universidad\curso c#\session 5\metodos\metodos\obj\Debug\metodos.pdb

@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 41\ejerciciodePOO\ejerciciodePOO\bin\Debug\ejerciciodePOO.exe.config
+D:\universidad\curso c#\videos de youtube\video 41\ejerciciodePOO\ejerciciodePOO\bin\Debug\ejerciciodePOO.exe
+D:\universidad\curso c#\videos de youtube\video 41\ejerciciodePOO\ejerciciodePOO\bin\Debug\ejerciciodePOO.pdb
+D:\universidad\curso c#\videos de youtube\video 41\ejerciciodePOO\ejerciciodePOO\obj\Debug\ejerciciodePOO.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 41\ejerciciodePOO\ejerciciodePOO\obj\Debug\ejerciciodePOO.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 41\ejerciciodePOO\ejerciciodePOO\obj\Debug\ejerciciodePOO.exe
+D:\universidad\curso c#\videos de youtube\video 41\ejerciciodePOO\ejerciciodePOO\obj\Debug\ejerciciodePOO.pdb

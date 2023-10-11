@@ -1,0 +1,30 @@
+pseudocico del ejercicio del area y perimetro de una rectangulo.
+
+DIVIDIR PRIMERO EL PROGRAMA EN PEQUEÑOS SUBPROGRAMAS 
+
+PASOS 
+
+INICIO 
+1.pedir altura del rectángulo.
+2.pedir ancho del rectángulo.
+3.calcular área multiplicando altura * Ancho.
+4. claular el perímetro lado * lado * lado * lado.
+5. mostrar área perímetro
+
+FIN
+
+
+PSEUDOCÓDIGO
+
+INICIO
+
+Variables: 
+	altura, ancho, area, perimetro : double 
+Escribir ("Dame la altura: ")
+leer (altura)
+Escribir ("Dame el ancho: ")
+leer (ancho)
+area <- altura * ancho
+perimetro <- 2(altura + ancho)
+escribir (" El área es : " area)
+Escribir ("El perímetro es: ", perimetro)

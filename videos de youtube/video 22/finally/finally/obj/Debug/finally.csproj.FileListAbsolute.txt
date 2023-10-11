@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 22\finally\finally\bin\Debug\@finally.exe.config
+D:\universidad\curso c#\videos de youtube\video 22\finally\finally\bin\Debug\@finally.exe
+D:\universidad\curso c#\videos de youtube\video 22\finally\finally\bin\Debug\@finally.pdb
+D:\universidad\curso c#\videos de youtube\video 22\finally\finally\obj\Debug\finally.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 22\finally\finally\obj\Debug\finally.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 22\finally\finally\obj\Debug\@finally.exe
+D:\universidad\curso c#\videos de youtube\video 22\finally\finally\obj\Debug\@finally.pdb

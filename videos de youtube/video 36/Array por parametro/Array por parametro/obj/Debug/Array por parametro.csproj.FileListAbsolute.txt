@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 36\Array por parametro\Array por parametro\bin\Debug\Array por parametro.exe.config
+D:\universidad\curso c#\videos de youtube\video 36\Array por parametro\Array por parametro\bin\Debug\Array por parametro.exe
+D:\universidad\curso c#\videos de youtube\video 36\Array por parametro\Array por parametro\bin\Debug\Array por parametro.pdb
+D:\universidad\curso c#\videos de youtube\video 36\Array por parametro\Array por parametro\obj\Debug\Array por parametro.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 36\Array por parametro\Array por parametro\obj\Debug\Array por parametro.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 36\Array por parametro\Array por parametro\obj\Debug\Array por parametro.exe
+D:\universidad\curso c#\videos de youtube\video 36\Array por parametro\Array por parametro\obj\Debug\Array por parametro.pdb

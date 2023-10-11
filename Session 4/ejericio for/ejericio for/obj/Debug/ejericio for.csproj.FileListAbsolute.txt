@@ -1,0 +1,7 @@
+D:\universidad\curso c#\Session 4\ejericio for\ejericio for\bin\Debug\ejericio for.exe.config
+D:\universidad\curso c#\Session 4\ejericio for\ejericio for\bin\Debug\ejericio for.exe
+D:\universidad\curso c#\Session 4\ejericio for\ejericio for\bin\Debug\ejericio for.pdb
+D:\universidad\curso c#\Session 4\ejericio for\ejericio for\obj\Debug\ejericio for.csprojAssemblyReference.cache
+D:\universidad\curso c#\Session 4\ejericio for\ejericio for\obj\Debug\ejericio for.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\Session 4\ejericio for\ejericio for\obj\Debug\ejericio for.exe
+D:\universidad\curso c#\Session 4\ejericio for\ejericio for\obj\Debug\ejericio for.pdb

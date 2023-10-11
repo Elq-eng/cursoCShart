@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_de_poligonos", "ejercicio_de_poligonos\ejercicio_de_poligonos.csproj", "{90235F8F-0CE4-419D-B2BB-217782CA0F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90235F8F-0CE4-419D-B2BB-217782CA0F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90235F8F-0CE4-419D-B2BB-217782CA0F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90235F8F-0CE4-419D-B2BB-217782CA0F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90235F8F-0CE4-419D-B2BB-217782CA0F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6CF89D9-2E37-4484-87F0-054909A1FBF5}
+	EndGlobalSection
+EndGlobal

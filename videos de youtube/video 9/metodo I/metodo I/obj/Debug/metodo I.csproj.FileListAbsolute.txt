@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 9\metodo I\metodo I\bin\Debug\metodo I.exe.config
+D:\universidad\curso c#\videos de youtube\video 9\metodo I\metodo I\bin\Debug\metodo I.exe
+D:\universidad\curso c#\videos de youtube\video 9\metodo I\metodo I\bin\Debug\metodo I.pdb
+D:\universidad\curso c#\videos de youtube\video 9\metodo I\metodo I\obj\Debug\metodo I.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 9\metodo I\metodo I\obj\Debug\metodo I.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 9\metodo I\metodo I\obj\Debug\metodo I.exe
+D:\universidad\curso c#\videos de youtube\video 9\metodo I\metodo I\obj\Debug\metodo I.pdb

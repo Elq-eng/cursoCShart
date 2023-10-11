@@ -1,0 +1,34 @@
+dos clases de errores
+errores de compilacion : Son los que no eprmiten que el software 
+se compile, puede ser a problemas de puntos y comas
+palabras escritas,
+
+
+errores en tiempo de ejecucion: sucede cuando el programa se esta 
+ejecutando, tiende a ser porque el algoritmo no 
+fue hecho de manera correcta o un mal manejo de informacion 
+
+para manejar las excepciones 
+se trabaja con try 
+catch 
+finally 
+
+try 
+{
+
+codigo principal de peligro en hacer error de exception
+
+}
+catch(Exception e)
+{
+	//aqui se coloca el codigo que salva la aplciacion 
+
+codigo .....
+
+}
+finally 
+{
+limpiar o arreglar
+mostrar todos ls datos
+
+}

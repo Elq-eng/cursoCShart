@@ -1,0 +1,7 @@
+D:\universidad\curso c#\lectura_de_datos\lectura_de_datos\bin\Debug\lectura_de_datos.exe.config
+D:\universidad\curso c#\lectura_de_datos\lectura_de_datos\bin\Debug\lectura_de_datos.exe
+D:\universidad\curso c#\lectura_de_datos\lectura_de_datos\bin\Debug\lectura_de_datos.pdb
+D:\universidad\curso c#\lectura_de_datos\lectura_de_datos\obj\Debug\lectura_de_datos.csprojAssemblyReference.cache
+D:\universidad\curso c#\lectura_de_datos\lectura_de_datos\obj\Debug\lectura_de_datos.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\lectura_de_datos\lectura_de_datos\obj\Debug\lectura_de_datos.exe
+D:\universidad\curso c#\lectura_de_datos\lectura_de_datos\obj\Debug\lectura_de_datos.pdb

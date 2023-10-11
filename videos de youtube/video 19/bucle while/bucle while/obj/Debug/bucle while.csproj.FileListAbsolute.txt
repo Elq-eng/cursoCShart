@@ -1,0 +1,7 @@
+D:\universidad\curso c#\videos de youtube\video 19\bucle while\bucle while\bin\Debug\bucle while.exe.config
+D:\universidad\curso c#\videos de youtube\video 19\bucle while\bucle while\bin\Debug\bucle while.exe
+D:\universidad\curso c#\videos de youtube\video 19\bucle while\bucle while\bin\Debug\bucle while.pdb
+D:\universidad\curso c#\videos de youtube\video 19\bucle while\bucle while\obj\Debug\bucle while.csprojAssemblyReference.cache
+D:\universidad\curso c#\videos de youtube\video 19\bucle while\bucle while\obj\Debug\bucle while.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\videos de youtube\video 19\bucle while\bucle while\obj\Debug\bucle while.exe
+D:\universidad\curso c#\videos de youtube\video 19\bucle while\bucle while\obj\Debug\bucle while.pdb

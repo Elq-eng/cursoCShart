@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 11\apertura de archivo\apertura de archivo\bin\Debug\apertura de archivo.exe.config
+D:\universidad\curso c#\session 11\apertura de archivo\apertura de archivo\bin\Debug\apertura de archivo.exe
+D:\universidad\curso c#\session 11\apertura de archivo\apertura de archivo\bin\Debug\apertura de archivo.pdb
+D:\universidad\curso c#\session 11\apertura de archivo\apertura de archivo\obj\Debug\apertura de archivo.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 11\apertura de archivo\apertura de archivo\obj\Debug\apertura de archivo.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 11\apertura de archivo\apertura de archivo\obj\Debug\apertura de archivo.exe
+D:\universidad\curso c#\session 11\apertura de archivo\apertura de archivo\obj\Debug\apertura de archivo.pdb

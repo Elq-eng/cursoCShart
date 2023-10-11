@@ -1,0 +1,7 @@
+D:\universidad\curso c#\Session 4\iteraciones anidadas\iteraciones anidadas\bin\Debug\iteraciones anidadas.exe.config
+D:\universidad\curso c#\Session 4\iteraciones anidadas\iteraciones anidadas\bin\Debug\iteraciones anidadas.exe
+D:\universidad\curso c#\Session 4\iteraciones anidadas\iteraciones anidadas\bin\Debug\iteraciones anidadas.pdb
+D:\universidad\curso c#\Session 4\iteraciones anidadas\iteraciones anidadas\obj\Debug\iteraciones anidadas.csprojAssemblyReference.cache
+D:\universidad\curso c#\Session 4\iteraciones anidadas\iteraciones anidadas\obj\Debug\iteraciones anidadas.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\Session 4\iteraciones anidadas\iteraciones anidadas\obj\Debug\iteraciones anidadas.exe
+D:\universidad\curso c#\Session 4\iteraciones anidadas\iteraciones anidadas\obj\Debug\iteraciones anidadas.pdb

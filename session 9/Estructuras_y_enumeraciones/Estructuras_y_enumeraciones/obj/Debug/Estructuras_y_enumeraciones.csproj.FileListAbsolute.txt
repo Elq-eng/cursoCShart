@@ -1,0 +1,14 @@
+D:\universidad\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\bin\Debug\Estructuras_y_enumeraciones.exe.config
+D:\universidad\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\bin\Debug\Estructuras_y_enumeraciones.exe
+D:\universidad\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\bin\Debug\Estructuras_y_enumeraciones.pdb
+D:\universidad\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\obj\Debug\Estructuras_y_enumeraciones.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\obj\Debug\Estructuras_y_enumeraciones.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\obj\Debug\Estructuras_y_enumeraciones.exe
+D:\universidad\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\obj\Debug\Estructuras_y_enumeraciones.pdb
+E:\universidad elquin\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\bin\Debug\Estructuras_y_enumeraciones.exe.config
+E:\universidad elquin\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\bin\Debug\Estructuras_y_enumeraciones.exe
+E:\universidad elquin\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\bin\Debug\Estructuras_y_enumeraciones.pdb
+E:\universidad elquin\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\obj\Debug\Estructuras_y_enumeraciones.csprojAssemblyReference.cache
+E:\universidad elquin\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\obj\Debug\Estructuras_y_enumeraciones.csproj.CoreCompileInputs.cache
+E:\universidad elquin\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\obj\Debug\Estructuras_y_enumeraciones.exe
+E:\universidad elquin\curso c#\session 9\Estructuras_y_enumeraciones\Estructuras_y_enumeraciones\obj\Debug\Estructuras_y_enumeraciones.pdb

@@ -1,0 +1,7 @@
+D:\universidad\curso c#\Session 4\operadores de incremento y decremento\operadores de incremento y decremento\bin\Debug\operadores de incremento y decremento.exe.config
+D:\universidad\curso c#\Session 4\operadores de incremento y decremento\operadores de incremento y decremento\bin\Debug\operadores de incremento y decremento.exe
+D:\universidad\curso c#\Session 4\operadores de incremento y decremento\operadores de incremento y decremento\bin\Debug\operadores de incremento y decremento.pdb
+D:\universidad\curso c#\Session 4\operadores de incremento y decremento\operadores de incremento y decremento\obj\Debug\operadores de incremento y decremento.csprojAssemblyReference.cache
+D:\universidad\curso c#\Session 4\operadores de incremento y decremento\operadores de incremento y decremento\obj\Debug\operadores de incremento y decremento.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\Session 4\operadores de incremento y decremento\operadores de incremento y decremento\obj\Debug\operadores de incremento y decremento.exe
+D:\universidad\curso c#\Session 4\operadores de incremento y decremento\operadores de incremento y decremento\obj\Debug\operadores de incremento y decremento.pdb

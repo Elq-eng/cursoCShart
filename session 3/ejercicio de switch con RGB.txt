@@ -1,0 +1,32 @@
+DEFINIR LOS PASOS QUE SE VAN HACER EN EL EJERCICIO 
+
+PASOS 
+
+INICIO
+
+1. PREGUNTARLE AL USUARIO QUE COLOR DESEA
+2. DETERMINAR EL COLOR ESCOGIDO
+3. MOSTRAR SEGUN EL COLOR 
+
+FIN
+
+PSEUDOCODIGO
+
+INICIAR 
+
+VARIABLES 
+	color: string 
+	
+Escribir ("Ingrese el color para darte su codigo RGB")
+Leer (color)
+
+segun sea (color)
+en Caso color:R
+	escribir ("255,0,0")
+salir 
+en Caso color:G
+	escribir ("0,255,0")
+salir 
+en Caso color:B
+	escribir ("0,0255")
+salir 

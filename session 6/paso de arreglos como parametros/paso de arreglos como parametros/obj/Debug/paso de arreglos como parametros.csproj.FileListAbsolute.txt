@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 6\paso de arreglos como parametros\paso de arreglos como parametros\bin\Debug\paso de arreglos como parametros.exe.config
+D:\universidad\curso c#\session 6\paso de arreglos como parametros\paso de arreglos como parametros\bin\Debug\paso de arreglos como parametros.exe
+D:\universidad\curso c#\session 6\paso de arreglos como parametros\paso de arreglos como parametros\bin\Debug\paso de arreglos como parametros.pdb
+D:\universidad\curso c#\session 6\paso de arreglos como parametros\paso de arreglos como parametros\obj\Debug\paso de arreglos como parametros.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 6\paso de arreglos como parametros\paso de arreglos como parametros\obj\Debug\paso de arreglos como parametros.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 6\paso de arreglos como parametros\paso de arreglos como parametros\obj\Debug\paso de arreglos como parametros.exe
+D:\universidad\curso c#\session 6\paso de arreglos como parametros\paso de arreglos como parametros\obj\Debug\paso de arreglos como parametros.pdb

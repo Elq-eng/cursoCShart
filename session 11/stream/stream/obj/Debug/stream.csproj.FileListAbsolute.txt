@@ -1,0 +1,7 @@
+D:\universidad\curso c#\session 11\stream\stream\bin\Debug\stream.exe.config
+D:\universidad\curso c#\session 11\stream\stream\bin\Debug\stream.exe
+D:\universidad\curso c#\session 11\stream\stream\bin\Debug\stream.pdb
+D:\universidad\curso c#\session 11\stream\stream\obj\Debug\stream.csprojAssemblyReference.cache
+D:\universidad\curso c#\session 11\stream\stream\obj\Debug\stream.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\session 11\stream\stream\obj\Debug\stream.exe
+D:\universidad\curso c#\session 11\stream\stream\obj\Debug\stream.pdb

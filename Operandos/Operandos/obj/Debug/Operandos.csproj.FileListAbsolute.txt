@@ -1,0 +1,7 @@
+D:\universidad\curso c#\Operandos\Operandos\bin\Debug\Operandos.exe.config
+D:\universidad\curso c#\Operandos\Operandos\bin\Debug\Operandos.exe
+D:\universidad\curso c#\Operandos\Operandos\bin\Debug\Operandos.pdb
+D:\universidad\curso c#\Operandos\Operandos\obj\Debug\Operandos.csprojAssemblyReference.cache
+D:\universidad\curso c#\Operandos\Operandos\obj\Debug\Operandos.csproj.CoreCompileInputs.cache
+D:\universidad\curso c#\Operandos\Operandos\obj\Debug\Operandos.exe
+D:\universidad\curso c#\Operandos\Operandos\obj\Debug\Operandos.pdb
